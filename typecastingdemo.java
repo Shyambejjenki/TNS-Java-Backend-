@@ -3,11 +3,11 @@ public class typecastingdemo {
 	public static void main(String[] args) {
 		// widening / implicit type casting
 		
-		byte b = 20;
+		byte b = 30;
 		int i = b;
 		System.out.println(i);
 		
-		float f = 44.14f;
+		float f = 40.14f;
 		double d = f;
 		System.out.println(d);
 		
