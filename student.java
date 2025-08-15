@@ -2,7 +2,7 @@ public class student{
     int roll_no;
     String name;
     String branch;
-    static String collegename =" IIT Hyderabad";
+    static String collegename ="IIT Hyderabad";
 
     void display()
     {
