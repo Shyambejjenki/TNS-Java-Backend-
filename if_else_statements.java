@@ -16,7 +16,7 @@ public class if_else_statements {
             System.out.println(" OOH!Sorry, you are not eligible to vote.");
         }
 
-        sc.close(); // Close Scanner
+        sc.close(); 
     }
 }
     
