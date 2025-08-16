@@ -20,7 +20,7 @@ public class student{
         ob.branch="aiml";
         ob.display();
 
-        student o=new student();
+        student object=new student();
         o.name="harsha";
         o.roll_no=6680;
         o.branch="ds";
