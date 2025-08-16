@@ -2,7 +2,7 @@ public class student{
     int roll_no;
     String name;
     String branch;
-    static String collegename =" IIT Hyderabad";
+    static String collegename ="IIT Hyderabad";
 
     void display()
     {
@@ -21,7 +21,7 @@ public class student{
         ob.display();
 
         student o=new student();
-        o.name="nitish";
+        o.name="harsha";
         o.roll_no=6680;
         o.branch="ds";
         o.display();
