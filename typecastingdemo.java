@@ -3,7 +3,7 @@ public class typecastingdemo {
 	public static void main(String[] args) {
 		// widening / implicit type casting
 		
-		byte b = 30;
+		byte b = 35;
 		int i = b;
 		System.out.println(i);
 		
